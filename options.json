@@ -1,0 +1,47 @@
+{
+   "Groups": [
+      {
+         "Name": "main",
+         "DisplayName": "T-POSE!!!",
+         "Elements": [
+
+            {
+                "Name": "IncludeDir0",
+                "DisplayName": "Do you want Sonic to assert his dominance?",
+                "Description": [
+                    "Changes Whether Sonic T-Poses or not."
+                ],
+                "Type": "ModelTypesNum",
+                "MinValue": null,
+                "MaxValue": null,
+                "DefaultValue": "t_pose"
+            },
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "ModelTypesNum": 
+	  [
+
+         {
+            "DisplayName": "T-Pose (EXPERIMENTAL)",
+            "Value": "t_pose",
+            "Description": [
+               "T-posin' time. (Might not function properly with the latest update)",
+            ]
+         },
+
+         {
+            "DisplayName": "Regular Anims",
+            "Value": "default",
+            "Description": [
+               "Sonic no assert dominance.",
+            ]
+         },	 
+
+      ],
+	},  
+   "IniFile": "mod.ini"
+}
