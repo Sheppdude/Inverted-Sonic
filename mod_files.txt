@@ -1,0 +1,12 @@
+add /default/raw/character/sonic.pac
+add/default/raw/character/supersonic.pac
+add /main/raw/character/soniccyber.pac
+add /main/raw/dlc/dlccrm/dlccrm.pac
+add /main/raw/dlc/dlcholoA/dlcholoA.pac
+add /main/raw/dlc/dlcmhr/dlcmhr_costume_airou.pac
+add /main/raw/dlc/dlcmhr/dlcmhr_costume_hunter.pac
+add /main/raw/dlc/dlcxmas/dlcxmas.pac
+add /t_pose/raw/character/sonic.pac
+add /t_pose/raw/character/supersonic.pac
+add mod.ini
+add options.json
